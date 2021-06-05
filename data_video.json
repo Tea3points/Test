@@ -60,7 +60,7 @@
                 {
                     "description":"โปรดดูสถานะของนิ้วมือด้านล่างนี้ เพื่อขยับตำแหน่งนิ้วมือให้ถูกต้อง",
                     "sources":[
-                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+                        "https://firebasestorage.googleapis.com/v0/b/hand-device-application.appspot.com/o/%E0%B8%9F%E0%B8%9F%E0%B8%B1%E0%B8%99.mp4?alt=media&token=77268100-90a2-45c1-91b1-e95671d2c506"
                     ],
                     "subtitle":"By Google",
                     "thumb":"https://raw.githubusercontent.com/Tea3points/Test/main/f.PNG",
