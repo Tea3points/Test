@@ -87,7 +87,7 @@
                 {
                     "description":"โปรดดูสถานะของนิ้วมือด้านล่างนี้ เพื่อขยับตำแหน่งนิ้วมือให้ถูกต้อง",
                     "sources":[
-                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+                        "https://firebasestorage.googleapis.com/v0/b/hand-device-application.appspot.com/o/%E0%B8%AB%E0%B8%AB%E0%B8%B5%E0%B8%9A.mp4?alt=media&token=29966064-a4b4-4f53-a15a-9ea0a396e027"
                     ],
                     "subtitle":"By Blender Foundation",
                     "thumb":"https://raw.githubusercontent.com/Tea3points/Test/main/h.PNG",
