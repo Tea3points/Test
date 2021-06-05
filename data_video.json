@@ -78,7 +78,7 @@
                 {
                     "description":"โปรดดูสถานะของนิ้วมือด้านล่างนี้ เพื่อขยับตำแหน่งนิ้วมือให้ถูกต้อง",
                     "sources":[
-                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+                        "https://firebasestorage.googleapis.com/v0/b/hand-device-application.appspot.com/o/%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B9%84%E0%B8%A5.mp4?alt=media&token=05a6464e-3614-48c7-9c4b-68a93d61aa06"
                     ],
                     "subtitle":"By Garage419",
                     "thumb":"https://raw.githubusercontent.com/Tea3points/Test/main/i.PNG",
