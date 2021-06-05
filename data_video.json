@@ -69,7 +69,7 @@
                 {
                     "description":"โปรดดูสถานะของนิ้วมือด้านล่างนี้ เพื่อขยับตำแหน่งนิ้วมือให้ถูกต้อง",
                     "sources":[
-                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+                        "https://firebasestorage.googleapis.com/v0/b/hand-device-application.appspot.com/o/%E0%B8%A7_%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%99.mp4?alt=media&token=20eaa6ef-b27a-4eaf-a32b-a89b2176a12a"
                     ],
                     "subtitle":"By Blender Foundation",
                     "thumb":"https://raw.githubusercontent.com/Tea3points/Test/main/w.PNG",
