@@ -42,7 +42,7 @@
                 {
                     "description":"โปรดดูสถานะของนิ้วมือด้านล่างนี้ เพื่อขยับตำแหน่งนิ้วมือให้ถูกต้อง",
                     "sources":[
-                        "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+                        "https://firebasestorage.googleapis.com/v0/b/hand-device-application.appspot.com/o/%E0%B8%AD%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87.mp4?alt=media&token=7497b23f-cd43-4ee4-a5c6-a4c32b2484ec"
                     ],
                     "subtitle":"By Google",
                     "thumb":"https://raw.githubusercontent.com/Tea3points/Test/main/all.PNG",
